@@ -1,1 +1,1 @@
-# BCG-Strategy-Consulting-Virtual-Internship
+# BCG Strategy Consulting Virtual Internship
