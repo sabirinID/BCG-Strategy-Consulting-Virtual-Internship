@@ -1,2 +1,29 @@
 1: Market Research
 How to quickly get up to speed on a new topic.
+
+# Background Information
+Company X is a local telecom company and is facing a decline in profits over the past few years. BCG has been engaged to drive improvements in profitability. One of the hypotheses under consideration is the introduction of handset leasing. 
+
+Handset leasing works by renting new phones to customers for a monthly fee instead of selling phones to customers at a discounted upfront cost. Customers lease phones for a fixed term (usually 12 months), before they swap their used phone for a new model. Some telecom companies bundle phone leasing plans with lower-priced sim only mobile plans. This allows customers to change their phones more frequently without incurring upfront costs of buying phones through retail, or affecting their mobile plans. For the telcos, this reduces their need to hold inventory, and reduces their financing costs, both of which can help profitability.
+
+The Principal, Elisse, held an initial team meeting to discuss the various initiatives, including handset leasing. After discussion with your team, you have identified the need to do some market research and find out the impact of handset leasing on telco profitability in other markets.
+
+Elisse wants an email with your recommendation on whether the team should explore this idea further for the client.
+
+# Task Brief
+Your first task today is to do some research and identify markets in which handset leasing has already been introduced.
+
+Look for analyst reports on the impact on revenue and profits for the telecom companies operating in those markets, and summarise your findings in an email to Elisse, stating whether this is an attractive business model for the team to explore further.
+
+Elisse has sent you a few reports that might be useful (they are included in the resources section below).
+
+Spend no more than one hour on this task.
+
+# Task Resources
+Elisse has prepared some guiding materials that can help you throughout this task:
+
+	Report list email
+	https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1663543137198/BCG%20Forage%20Task%201%20report%20list%20email.pdf
+
+	Sample email
+	https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1629680070129/BCG%20Forage%20Task%201%20past%20email%20example.docx

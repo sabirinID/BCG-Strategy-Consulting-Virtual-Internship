@@ -1,2 +1,12 @@
 5: Client Recommendation
 Putting it all together.
+
+# Background Information
+The client wants a quick update on project progress. The project leader, Richard, wants you to draft an executive summary of your findings so far.
+
+# Task Brief
+Develop an executive summary slide synthesizing all the findings from the project so far. Use our best practice slide below to assist you with this task!
+
+# Task Resources
+	Best practise executive summary
+	https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1629680314153/BCG%20Forage%20Core%20Strategy%20-%20Telco%20(Task%205%20Additional%20Data).pdf

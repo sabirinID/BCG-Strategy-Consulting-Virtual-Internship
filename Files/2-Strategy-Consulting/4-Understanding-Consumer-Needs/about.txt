@@ -1,2 +1,26 @@
 4: Understanding Consumer Needs
 Uncovering needs and resolving trade-offs.
+
+# Background Information
+During the case team meeting, the team reviewed the different initiatives that have been evaluated. The handset leasing option passed the initial screen, and now the team needs to determine how the client might implement the new handset leasing pricing models.
+
+Together with the client’s strategy team, we have created a handset leasing consumer offer that is broadly similar to the existing mass market offer, and now need to assess if it will be attractive. 
+
+# Task Brief
+Sub-Task 1:
+
+We now need to evaluate whether the new option would be attractive to customers. Brainstorm and shortlist criteria that customers may use to evaluate competing offers. What data points would help us decide if the new offer is attractive to consumers? 
+
+Sub-Task 2:
+
+Your team has now collected data via online surveys with consumers. Given the data your team gathered, fill in your evaluation matrix and identify the target segment for this plan.  
+
+Sub-Task 3:
+
+Given the target segment, identify changes to the offering that would make it more attractive for them. Also come up with a product name that you think will appeal to the segment.
+
+Please use the information in the resources section below to complete this task.
+
+# Task Resources
+	Price Plans and Consumer Survey Data
+	https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1629680210875/BCG%20Forage%20Core%20Strategy%20-%20Telco%20(Task%204%20Additional%20Data).pdf
